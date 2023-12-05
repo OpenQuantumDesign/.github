@@ -1,5 +1,3 @@
-# .github
-
-We are building the world's first open source quantum computer.
+# Building the world's first open source quantum computer.
 
 https://openquantumdesign.org/
